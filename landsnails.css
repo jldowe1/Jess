@@ -1,0 +1,87 @@
+body {
+    font-family: "helvetica", sans-serif; 
+
+}
+
+#navbar{
+    overflow: scroll;
+    background-color: orange;
+    position: fixed;
+    text-align: center;
+    top: 22px;
+    left:0;
+    width: 100%;
+    font-family: sans-serif;
+   
+    display: block;}
+A {text-decoration: none;}
+    ol>li {
+        list-style-type:lower-alpha;}
+
+ul>li{
+    list-style-type: square;} 
+    #navbar a{
+    display: inline-block; 
+    padding: 14px;
+    color: black;} 
+
+.bitch {margin-left: 350px; }
+
+.fruitcake {margin-left: 350px}
+
+.DICK {margin-left:350px}
+
+.snailsxxx {margin-left:350px}
+
+.ouch {margin-left:350px}
+
+h1 { 
+	font-family: 'Open Sans' , sans-serif;
+	font-size: 6em;
+	font-weight:  700; /
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 1.2em;
+	background-color: #fff;
+	margin-bottom: 20px;
+	padding: 40px;
+	border-top: solid 20px #000;
+    color:black; 
+    text-align: center;}
+
+h2 {
+    text-align:center; 
+    margin-bottom: auto; 
+    text-decoration: underline;
+    font-size: 40px;
+    margin-bottom: 15px;
+
+     } 
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p#description {border:double
+    5px; font-size: 17px;
+background-color: gainsboro}
+
+
+p.tax {text-align: left;}
+    
+h2 { background-color: lightblue;
+    font-family: sans-serif;
+    font-size: 3em;
+    font-weight: 400;
+}
+
+p { font-family: 'Orbitron'; 
+    font-size: 17px; 
+    text-align: center;
+    shape-margin: 9px; 
+margin-bottom: 2em;	 
+    line-height: 1.2em;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
